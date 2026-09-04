@@ -1,0 +1,7 @@
+*.exe
+*.conf
+*.bin
+*.eep
+*.elf
+*.lst
+*.txt
